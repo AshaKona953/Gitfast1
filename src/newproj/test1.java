@@ -10,7 +10,12 @@ public class test1 {
 		
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Asha kona\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
+
 		driver.get("https://www.google.com");	
+
+		driver.get("https://www.google.com");
+	    System.out.println("i am Asha");
+
 	}
 
 }
