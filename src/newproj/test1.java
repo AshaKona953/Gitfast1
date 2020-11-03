@@ -12,7 +12,7 @@ public class test1 {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.google.com");
 		System.out.println("change in 1st eclipse window1");
-		System.out.println("change in 2nd eclipse window1");
+		System.out.println("change in 3rd eclipse window1");
 	}
 
 }
