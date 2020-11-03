@@ -10,12 +10,7 @@ public class test1 {
 		
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Asha kona\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
-		driver.get("https://www.google.com");
-		System.out.println("change in 1st eclipse window1");
-
-		System.out.println("change in 3rd eclipse window1");
-
-        System.out.println("change in 2nd window1");
+		driver.get("https://www.google.com");	
 	}
 
 }
