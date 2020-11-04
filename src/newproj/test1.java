@@ -13,5 +13,4 @@ public class test1 {
 
 		driver.get("https://www.google.com");
 	}
-
 }
