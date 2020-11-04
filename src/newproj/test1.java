@@ -12,5 +12,6 @@ public class test1 {
 		WebDriver driver=new ChromeDriver();
 
 		driver.get("https://www.google.com");
+		System.out.println("sdhv");
 	}
 }
